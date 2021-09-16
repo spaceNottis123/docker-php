@@ -2,7 +2,7 @@
 create a environment for development in php 
 
 
-##start the container
+#start the container
 to start the the container use => docker-composer up
 
 ## to start developing
